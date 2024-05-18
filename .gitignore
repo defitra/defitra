@@ -1,0 +1,7 @@
+/public
+/themes/fitratheme/node_modules
+/themes/fitratheme/src
+/themes/fitratheme/dist
+/themes/fitratheme/package-lock.json
+/themes/fitratheme/package.json
+/themes/fitratheme/tailwind.config.js
