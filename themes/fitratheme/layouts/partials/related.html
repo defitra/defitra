@@ -46,9 +46,9 @@
             >
               <i>
                 <p class="text-s text-secondary dark:text-white">
-                  {{.Params.author}} | {{if eq .Params.has_updated false}}
+                  {{.Params.author}} - {{if eq .Params.has_updated false}}
                   {{.Params.created_date}} {{else}} {{.Params.updated_date}}
-                  {{end}} | {{.Params.read_time}}
+                  {{end}}
                 </p>
               </i>
 
