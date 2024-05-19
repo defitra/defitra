@@ -121,9 +121,9 @@ Itulah tadi pembahasan mengenai konsep nilai waktu uang. Konsep ini sangat penti
 Terima kasih, mohon maaf dan mohon koreksi jika ada kesalahan. Have a nice day :)
 
 ## Referensi
-1. Adam Smith, didapat dari Fikri, Ahmad. 2024. Uang: Pandangan Ahli tentang Makna dan Fungsinya. https://redasamudera.id/definisi-uang-menurut-ahli/#3-adam-smith (diakses pada 19 Mei 2024)  
-2. Arthur Cecil Pigou, didapat dari Gramedia.com. Pengertian Uang: Fungsi, Ragam, dan Teori Nilai Uang. https://www.gramedia.com/literasi/uang/ (diakses pada 19 Mei 2024)  
-3. Bank Indonesia, didapat dari Yuli, 2016. 6 Pengertian Inflasi Menurut Para Ahli Dalam Negeri. https://dosenekonomi.com/ilmu-ekonomi/ekonomi-makro/pengertian-inflasi-menurut-para-ahli (diakses pada 19 Mei 2024)  
-4. Fernando, Jason. 2023. Time Value of Money Explained with Formula and Examples. https://www.investopedia.com/terms/t/timevalueofmoney.asp (diakses pada 19 Mei 2024)
+1. Adam Smith, didapat dari Fikri, Ahmad. 2024. [Uang: Pandangan Ahli tentang Makna dan Fungsinya](https://redasamudera.id/definisi-uang-menurut-ahli/#3-adam-smith) (diakses pada 19 Mei 2024)  
+2. Arthur Cecil Pigou, didapat dari Gramedia.com. [Pengertian Uang: Fungsi, Ragam, dan Teori Nilai Uang](https://www.gramedia.com/literasi/uang/) (diakses pada 19 Mei 2024)  
+3. Bank Indonesia, didapat dari Yuli, 2016. [6 Pengertian Inflasi Menurut Para Ahli Dalam Negeri](https://dosenekonomi.com/ilmu-ekonomi/ekonomi-makro/pengertian-inflasi-menurut-para-ahli) (diakses pada 19 Mei 2024)  
+4. Fernando, Jason. 2023. [Time Value of Money Explained with Formula and Examples](https://www.investopedia.com/terms/t/timevalueofmoney.asp) (diakses pada 19 Mei 2024)
 
 
