@@ -118,7 +118,7 @@
                   {{.Params.created_date}} · {{.Params.read_time}} ·{{ if
                   .Params.categories }} {{delimit .Params.categories ", " }} {{
                   end }} {{else}} {{.Params.author}} · diperbarui pada
-                  {{.Params.updated_date}} · {{.Params.read_time}} min read · {{
+                  {{.Params.updated_date}} · {{.Params.read_time}} · {{
                   if .Params.categories }} {{ delimit .Params.categories ", " }}
                   {{ end }} {{end}} {{else}} {{if eq .Params.has_updated false}}
                   dibuat pada {{.Params.created_date}} {{else}} diperbarui pada
