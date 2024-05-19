@@ -18,7 +18,7 @@ ads_sidebar_name: ""
 ads_header: false
 ads_header_name: ""
 
-featured_image: "/img/{{.Name}}/feature_image.png"
+featured_image: "/img/featured-images/"
 alt_featured_image: "feature_image"
 
 author: "Defitra"

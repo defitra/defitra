@@ -1,16 +1,17 @@
 ---
-title: "Cara Menilai Kelayakan Bisnis Menggunakan Metode Payback Period"
+title: "Menilai Kelayakan Bisnis Menggunakan Payback Period"
 date: 2024-05-06T16:35:57+07:00
 created_date: "06 Mei 2024"
-updated_date: "06 Mei 2024"
-has_updated: false
+updated_date: "19 Mei 2024"
+has_updated: true
 
 meta_robot_is_indexed: true
 meta_published_time: "2024-05-06T16:35:57+07:00"
 meta_modified_time: "2024-05-06T16:35:57+07:00"
-meta_description: "Studi Kelayakan Bisnis, Payback Period"
+meta_description: "Metode Payback Period pada dasarnya melihat seberapa lama suatu investasi dapat kembali."
 meta_keywords: 
-- 
+- Studi Kelayakan Bisnis
+- Payback Period
 
 ads_disclosure: false
 ads_sidebar: false
@@ -19,7 +20,7 @@ ads_header: false
 ads_header_name: ""
 
 featured_image: "/img/featured-images/business-analysis.jpg"
-alt_featured_image: "feature_image"
+alt_featured_image: "business-analysis"
 
 author: "Defitra"
 read_time: "5 min read"
@@ -33,7 +34,7 @@ tags:
 series:
 - 
 
-description: "Dalam menilai suatu kelayakan bisnis, terdapat beberapa metode yang dapat digunakan. Salah satunya adalah metode Payback Period. Metode ini adalah salah satu metode termudah untuk mengetahui apakah suatu bisnis layak untuk dijalankan diberi investasi"
+description: "Dalam menilai suatu kelayakan bisnis, terdapat beberapa metode yang dapat digunakan. Salah satunya adalah metode Payback Period. Metode ini adalah salah satu metode termudah untuk mengetahui apakah suatu bisnis layak untuk dijalankan atau diberi investasi"
 
 show_table_of_content: true
 archive: false
@@ -42,13 +43,13 @@ draft: false
 
 ## Intro
 
-Dalam menilai suatu kelayakan bisnis, terdapat beberapa metode yang dapat digunakan. Salah satunya adalah metode Payback Period. Metode ini adalah salah satu metode termudah untuk mengetahui apakah suatu bisnis layak untuk dijalankan diberi investasi.  
+Dalam menilai suatu kelayakan bisnis, terdapat beberapa metode yang dapat digunakan. Salah satunya adalah metode Payback Period. Metode ini adalah salah satu metode termudah untuk mengetahui apakah suatu bisnis layak untuk dijalankan atau diberi investasi.  
 
 Metode Payback Period pada dasarnya melihat seberapa lama suatu investasi dapat kembali. Dalam istilah kita sehari-hari, bisa dikatakan "kapan balik modal?". Untuk lebih jelasnya, mari kita simak contoh studi kelayakan bisnis menggunakan payback period.
 
 ## Contoh Soal/Kasus
 
-Pak Budi dihadapkan pada 2 pilihan proyek yang harus dia pilih. Berikut adalah rincian proyeksi arus kas dari ke 2 proyek tersebut tersebut:
+Pak Budi dihadapkan pada 2 pilihan proyek yang harus dia pilih. Berikut adalah rincian proyeksi arus kas dari ke 2 proyek tersebut tersebut :
 
 |Tahun|Proyek A|Proyek B| 
 |-------|----------|----------|
@@ -99,10 +100,3 @@ Selain itu, apakah kamu dapat melihat dengan jeli apa lagi yang tidak diperhatik
 
 ## Kesimpulan
 Payback Period dapat menjadi alternatif analisis kelayakan bisnis yang mudah, cepat dan objektif. Ada beberapa hal yang tidak diperhitungkan dalam metode ini, salah satunya nilai waktu uang. Penggunaan metode ini bersama metode yang lain dapat meningkatkan pengetahuan kita mengenai kelayakan suatu bisnis. Sehingga diharapkan menghasilkan keputusan yang optimal.
-
-
-
-
-
-
-
