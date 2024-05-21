@@ -91,14 +91,12 @@ Berdasarkan perhitungan tersebut, Pak Budi sudah "balik modal" dalam waktu **3 t
 
 Jika kamu berada di posisi Pak Budi, proyek mana yang akan kamu pilih? Proyek yang balik modal 5 tahun atau 3 tahun?  
 
-Tentu saja, [proyek B](google.com) lebih direkomendasikan karena dapat mengembalikan imbal hasil lebih cepat. Jadi dapat disimpulkan bahwa berdasarkan metode Payback Period, Proyek B lebih direkomendasikan daripada Proyek A.
-
-[Baca juga : Cara menilai kelayakan bisnis menggunakan metode Payback Period](defitra.my.id)
+Tentu saja, proyek B lebih direkomendasikan karena dapat mengembalikan imbal hasil lebih cepat. Jadi dapat disimpulkan bahwa berdasarkan metode Payback Period, Proyek B lebih direkomendasikan daripada Proyek A.
 
 ## Catatan mengenai Payback Period
 Seperti yang telah dijelaskan sebelumnya, kita dapat dengan cepat mengetahui alternatif bisnis mana yang dapat dipilih menggunakan metode Payback Period. Namun metode ini bukan tanpa kekurangan. Hal yang paling terlihat adalah bahwa Payback Period tidak memperhatikan nilai waktu uang.  
 
-Selain itu, apakah kamu dapat melihat dengan jeli apa lagi yang tidak diperhatikan oleh Payback Period berdasarkan contoh soal sebelumnya?. Ya, jika kamu perhatikan, arus kas proyek A memiliki tren yang cenderung naik. Sedangkan arus kas proyek B cenderung datar-datar saja. Namun Payback Period merekomendasikan Proyek B. Disinilah kreatifitas kita dimainkan. Pada akhirnya, proyek mana yang dipilih bergantung pada preferensi masing-masing.  
+Selain itu, apakah kamu dapat melihat dengan jeli apa lagi yang tidak diperhatikan oleh Payback Period berdasarkan contoh soal sebelumnya?. Ya, jika kamu perhatikan, arus kas proyek A memiliki tren yang cenderung naik. Sedangkan arus kas proyek B cenderung datar-datar saja. Namun Payback Period merekomendasikan Proyek B. Disinilah kreatifitas kita dimainkan. Pada akhirnya, proyek mana yang dipilih bergantung pada preferensi masing-masing.
 
 ## Kesimpulan
 Payback Period dapat menjadi alternatif analisis kelayakan bisnis yang mudah, cepat dan objektif. Ada beberapa hal yang tidak diperhitungkan dalam metode ini, salah satunya nilai waktu uang. Penggunaan metode ini bersama metode yang lain dapat meningkatkan pengetahuan kita mengenai kelayakan suatu bisnis. Sehingga diharapkan menghasilkan keputusan yang optimal.
