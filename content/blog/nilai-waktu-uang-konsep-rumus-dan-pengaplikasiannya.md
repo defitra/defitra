@@ -1,9 +1,9 @@
 ---
-title: "Nilai Waktu Uang : Konsep, Rumus dan Aplikasinya"
+title: "Nilai Waktu Uang : Konsep, Rumus dan Pengaplikasiannya"
 date: 2024-05-19T06:38:12+07:00
 created_date: "19 Mei 2024"
-updated_date: "19 Mei 2024"
-has_updated: false
+updated_date: "21 Mei 2024"
+has_updated: true
 
 meta_robot_is_indexed: true
 meta_published_time: "2024-05-19T06:38:12+07:00"

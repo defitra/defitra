@@ -58,11 +58,11 @@ Pak Budi dihadapkan pada 2 pilihan proyek yang harus dia pilih. Berikut adalah r
 |2|60.000.000|150.000.000|
 |3|90.000.000|150.000.000|
 |4|130.000.000|150.000.000|
-|5|180.000.000|150.000.000|     
+|5|180.000.000|150.000.000|  
 
-{{<tag_article>}}   
-<p style="padding-top:20px">Proyek mana yang harus dipilih oleh Pak Budi?</p>
-{{</tag_article>}}
+
+Proyek mana yang harus dipilih oleh Pak Budi?
+
 
 ## Pembahasan
 Mari kita hitung kapan masing-masing proyek "balik modal". Dapat dilihat pada tahun 0, baik Proyek A maupun Proyek B membutuhkan dana investasi sebesar Rp450.000.000. 
@@ -91,7 +91,9 @@ Berdasarkan perhitungan tersebut, Pak Budi sudah "balik modal" dalam waktu **3 t
 
 Jika kamu berada di posisi Pak Budi, proyek mana yang akan kamu pilih? Proyek yang balik modal 5 tahun atau 3 tahun?  
 
-Tentu saja, proyek B lebih direkomendasikan karena dapat mengembalikan imbal hasil lebih cepat. Jadi dapat disimpulkan bahwa berdasarkan metode Payback Period, Proyek B lebih direkomendasikan daripada Proyek A.
+Tentu saja, [proyek B](google.com) lebih direkomendasikan karena dapat mengembalikan imbal hasil lebih cepat. Jadi dapat disimpulkan bahwa berdasarkan metode Payback Period, Proyek B lebih direkomendasikan daripada Proyek A.
+
+[Baca juga : Cara menilai kelayakan bisnis menggunakan metode Payback Period](defitra.my.id)
 
 ## Catatan mengenai Payback Period
 Seperti yang telah dijelaskan sebelumnya, kita dapat dengan cepat mengetahui alternatif bisnis mana yang dapat dipilih menggunakan metode Payback Period. Namun metode ini bukan tanpa kekurangan. Hal yang paling terlihat adalah bahwa Payback Period tidak memperhatikan nilai waktu uang.  
