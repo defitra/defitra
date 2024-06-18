@@ -27,7 +27,7 @@ read_time: "5 min read"
 type: "post"
 
 categories: 
-- Analisis Bisnis
+- Studi Kelayakan Bisnis
 tags: 
 - Studi Kelayakan Bisnis
 - Payback Period

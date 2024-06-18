@@ -29,7 +29,7 @@ read_time: "5 min read"
 type: "post"
 
 categories: 
-- Ekonomi
+- Studi Kelayakan Bisnis
 tags: 
 - Nilai Waktu Uang
 - Present Value
