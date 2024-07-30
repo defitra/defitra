@@ -34,18 +34,31 @@
 >
     <div class="container">
         <div class="flex flex-wrap justify-center">
-            <div class="max-w-xl mx-auto text-center mb-16">
+            <div class="max-w-xl mx-auto text-center mb-4">
                 <h2
-                    class="font-bold text-dark text-2xl mb-4 md:text-3xl lg:text-4xl dark:text-white"
+                    class="font-bold text-dark text-2xl mb-2 md:text-3xl lg:text-4xl dark:text-white"
                 >
                     Blogs
                 </h2>
                 <div>
-                    <div class="mx-auto w-10 h-2 bg-primary"></div>
+                    <div class="mx-auto w-10 h-2 mb-2 bg-primary"></div>
                 </div>
             </div>
         </div>
+        <div class="flex flex-wrap justify-center">
+            <div class="max-w-xl mx-auto text-center mb-4">
+                <div
+                    class="flex justify-center mb-2 px-auto font-medium text-base text-secondary"
+                >
+                    <span class="mx-1 px-4 py-1 text-yellow-500 bg-white dark:bg-slate-800 rounded-sm border border-yellow-500 shadow-md dark:shadow-yellow-500 overflow-hidden">Pilih Topik >></span>
 
+                        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+                            {{ $displayName :=  replace $name "-" " " | title }}
+                            <a class="mx-1 px-4 py-1 text-primary bg-white dark:bg-slate-800 rounded-sm border border-primary shadow-md hover:shadow-2xl dark:hover:bg-blue-400 hover:bg-primary hover:text-white dark:shadow-primary overflow-hidden" href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $displayName }}</a>
+                        {{ end }}
+                </div>
+            </div>
+        </div>
         <!-- Blog Card Start -->
         <div class="flex flex-wrap justify-center">
             {{ $paginator := .Paginate (where .Site.RegularPages "Section"
@@ -54,18 +67,23 @@
                 <div
                     class="bg-white dark:bg-slate-800 rounded-sm border shadow-lg hover:shadow-2xl dark:shadow-primary overflow-hidden mb-10 relative"
                 >
-                    <div class="overflow-hidden w-full">
-                        <a href="{{.Permalink}}"
-                            ><img
+                    <div class="relative overflow-hidden w-full">
+                        <a href="{{.Permalink}}">
+                            <img
                                 src="{{.Params.featured_image}}"
                                 alt="{{.Params.alt_featured_image}}"
                                 class="w-full hover:opacity-80 hover:shadow-lg duration-500 transform hover:scale-105 transition-transform"
                             />
                         </a>
+                        <div class="absolute flex flex-col items-center justify-center text-center" style="top: 60%; left: 50%; transform: translate(-50%, -50%);">
+
+                        </div>
                         <a href="/categories/{{replace (lower (delimit .Params.categories ", ")) " " "-"}}" class="absolute top-0 right-0 bg-primary text-white px-4 py-1 font-semibold hover:text-primary hover:bg-white">
                             {{ if .Params.categories }} {{ delimit .Params.categories ", " }} {{ end }}
                         </a>
                     </div>
+
+
                     <div class="pt-8 pb-6 px-6 text-justify">
                         <h3>
                             <a

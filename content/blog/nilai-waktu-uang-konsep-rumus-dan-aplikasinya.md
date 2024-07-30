@@ -35,7 +35,7 @@ tags:
 - Present Value
 - Future Value
 series:
-- manajemen
+- Manajemen
 
 description: "Apakah kamu sadar bahwa uang yang kita miliki hari ini tidak sama nilainya dengan uang yang dulu  dimiliki oleh orangtua kita sewaktu mereka seusia kita. Tentu saja, Rp10.000 tahun 1980 jelas berbeda nilainya dengan Rp10.000 tahun ini. Lantas apakah yang sebenarnya terjadi? Mari kita ulas!"
 

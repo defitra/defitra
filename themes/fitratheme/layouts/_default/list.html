@@ -21,18 +21,32 @@
       class="pt-36 pb-20 md:px-10 lg:px-20 bg-slate-100 dark:bg-dark"
     >
       <div class="container">
-        <div class="flex flex-wrap justify-center">
-          <div class="max-w-xl mx-auto text-center mb-16">
-            <h2
-              class="font-bold text-dark text-2xl mt-2 mb-4 md:text-3xl lg:text-4xl dark:text-white"
-            >
-              {{.Title}}
-            </h2>
-            <div>
-              <div class="mx-auto w-10 h-2 bg-primary"></div>
-            </div>
+          <div class="flex flex-wrap justify-center">
+              <div class="max-w-xl mx-auto text-center mb-4">
+                  <h2
+                      class="font-bold text-dark text-2xl mb-2 md:text-3xl lg:text-4xl dark:text-white"
+                  >
+                      {{.Title}}
+                  </h2>
+                  <div>
+                      <div class="mx-auto w-10 h-2 mb-2 bg-primary"></div>
+                  </div>
+              </div>
           </div>
-        </div>
+          <div class="flex flex-wrap justify-center">
+              <div class="max-w-xl mx-auto text-center mb-4">
+                  <div
+                      class="flex justify-center mb-2 px-auto font-medium text-base text-secondary"
+                  >
+                      <span class="mx-1 px-4 py-1 text-yellow-500 bg-white dark:bg-slate-800 rounded-sm border border-yellow-500 shadow-md dark:shadow-yellow-500 overflow-hidden">Pilih Topik >></span>
+
+                          {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+                              {{ $displayName :=  replace $name "-" " " | title }}
+                              <a class="mx-1 px-4 py-1 text-primary bg-white dark:bg-slate-800 rounded-sm border border-primary shadow-md hover:shadow-2xl dark:hover:bg-blue-400 hover:bg-primary hover:text-white dark:shadow-primary overflow-hidden" href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $displayName }}</a>
+                          {{ end }}
+                  </div>
+              </div>
+          </div>
         <div class="flex flex-wrap justify-center">
           <!-- Blog Start -->
           {{range .Paginator.Pages}}
