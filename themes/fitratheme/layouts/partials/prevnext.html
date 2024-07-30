@@ -9,7 +9,7 @@
           class="font-semibold text-base text-dark dark:text-white hover:text-primary dark:hover:text-primary"
         >
         ← Previous Article <br />
-          {{ .PrevInSection.Title }}
+         <span class="hidden lg:block"> {{ .PrevInSection.Title }}</span>
         </a>
       </div>
       {{else}}
@@ -21,7 +21,7 @@
           class="font-semibold text-base text-dark dark:text-white hover:text-primary dark:hover:text-primary"
         >
           Next Article →<br />
-          {{ .NextInSection.Title }}
+          <span class="hidden lg:block">{{ .NextInSection.Title }} </span>
         </a>
       </div>
       {{else}}
