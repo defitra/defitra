@@ -1,8 +1,8 @@
 ---
 title: "Seseorang yang terjebak di sebuah pulau"
 date: 2024-08-01T16:18:30+07:00
-created_date: "01 Agustus 2024"
-updated_date: "01 Agustus 2024"
+created_date: "01/08/2024"
+updated_date: "01/08/2024"
 has_updated: false
 
 meta_robot_is_indexed: true

@@ -1,8 +1,8 @@
 ---
 title: "Perkenalkan saya Defitra Hidayatullah"
 date: 2024-07-31T10:44:42+07:00
-created_date: "31 Juli 2024"
-updated_date: "31 Juli 2024"
+created_date: "31/07/2024"
+updated_date: "31/07/2024"
 has_updated: false
 
 meta_robot_is_indexed: true
