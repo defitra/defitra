@@ -54,10 +54,10 @@
                                     ><p
                                         class="text-secondary text-sm dark:text-white"
                                     >
-                                        {{.Params.author}} - {{if eq
-                                        .Params.has_updated false}}
+                                        {{if eq .Params.has_updated false}}
                                         {{.Params.created_date}} {{else}}
-                                        {{.Params.updated_date}} {{end}}
+                                        {{.Params.updated_date}} {{end}} -
+                                        {{.Params.read_time}}
                                     </p></i
                                 >
                             </td>

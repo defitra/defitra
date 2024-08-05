@@ -46,15 +46,15 @@
             </div>
         </div>
         <div class="flex flex-wrap justify-center">
-            <div class="max-w-xl mx-auto text-center mb-4">
+            <div class="mx-auto text-center mb-4">
                 <div
-                    class="flex justify-center mb-2 px-auto font-medium text-base text-secondary"
+                    class="flex flex-wrap justify-center mb-2 font-medium text-base text-secondary"
                 >
-                    <span class="mx-1 px-4 py-1 text-yellow-500 bg-white dark:bg-slate-800 rounded-sm border border-yellow-500 shadow-md dark:shadow-yellow-500 overflow-hidden">Pilih Topik >></span>
+                    <span class="mx-1 mb-2 px-4 py-1 text-yellow-500 bg-white dark:bg-slate-800 rounded-sm border border-yellow-500 shadow-md dark:shadow-yellow-500 overflow-hidden">Pilih Topik >></span>
 
                         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
                             {{ $displayName :=  replace $name "-" " " | title }}
-                            <a class="mx-1 px-4 py-1 text-primary bg-white dark:bg-slate-800 rounded-sm border border-primary shadow-md hover:shadow-2xl dark:hover:bg-blue-400 hover:bg-primary hover:text-white dark:shadow-primary overflow-hidden" href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $displayName }}</a>
+                            <a class="mx-1 mb-2 px-4 py-1 text-primary bg-white dark:bg-slate-800 rounded-sm border border-primary shadow-md hover:shadow-2xl dark:hover:bg-blue-400 hover:bg-primary hover:text-white dark:shadow-primary overflow-hidden" href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $displayName }}</a>
                         {{ end }}
                 </div>
             </div>
@@ -107,10 +107,9 @@
                         >
                             <i>
                                 <p class="text-secondary dark:text-white">
-                                    {{.Params.author}} - {{if eq
-                                    .Params.has_updated false}}
-                                    {{.Params.created_date}} {{else}}
-                                    {{.Params.updated_date}} {{end}}
+                                    {{if eq .Params.has_updated false}}
+                                    {{.Params.created_date}} {{else}} {{.Params.updated_date}}
+                                    {{end}} - {{.Params.read_time}}
                                 </p>
                             </i>
                             <div>
