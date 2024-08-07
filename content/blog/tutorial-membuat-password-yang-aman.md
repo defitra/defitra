@@ -1,5 +1,5 @@
 ---
-title: "Tutorial Membuat Password Yang Aman"
+title: "Tutorial membuat password yang aman"
 date: 2024-08-06T11:01:43+07:00
 created_date: "06/08/2024"
 updated_date: "06/08/2024"
