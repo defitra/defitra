@@ -19,7 +19,7 @@ ads_header: false
 ads_header_name: ""
 
 featured_image: "/img/featured-images/island.jpg"
-alt_featured_image: "feature_image"
+alt_featured_image: "land"
 
 author: "Defitra"
 read_time: "10 min read"

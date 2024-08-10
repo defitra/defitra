@@ -21,7 +21,7 @@ ads_header: false
 ads_header_name: ""
 
 featured_image: "/img/featured-images/password.jpg"
-alt_featured_image: "feature_image"
+alt_featured_image: "safe password"
 
 author: "Defitra"
 read_time: "3 min read"

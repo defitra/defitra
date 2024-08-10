@@ -20,7 +20,7 @@ ads_header: false
 ads_header_name: ""
 
 featured_image: "/img/featured-images/probability.jpg"
-alt_featured_image: "feature_image"
+alt_featured_image: "probability"
 
 author: "Defitra"
 read_time: "5 min read"
