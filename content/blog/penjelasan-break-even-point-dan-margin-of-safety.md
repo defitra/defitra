@@ -1,5 +1,5 @@
 ---
-title: "Penjelasan Break Even Point Dan Margin of Safety"
+title: "Penjelasan Break Even Point dan Margin of Safety"
 date: 2024-08-10T15:10:11+07:00
 created_date: "10/08/2024"
 updated_date: "10/08/2024"

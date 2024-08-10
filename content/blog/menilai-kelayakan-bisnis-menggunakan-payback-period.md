@@ -1,5 +1,5 @@
 ---
-title: "Menilai Kelayakan Bisnis Menggunakan Payback Period"
+title: "Menilai kelayakan bisnis menggunakan Payback Period"
 date: 2024-08-10T14:52:06+07:00
 created_date: "10/08/2024"
 updated_date: "10/08/2024"
