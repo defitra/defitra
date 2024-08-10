@@ -1,13 +1,13 @@
 ---
 title: "Perbedaan investor dan trader dalam konteks pasar saham"
-date: 2024-08-08T14:47:34+07:00
-created_date: "08/08/2024"
-updated_date: "08/08/2024"
+date: 2024-08-10T09:00:34+07:00
+created_date: "10/08/2024"
+updated_date: "10/08/2024"
 has_updated: false
 
 meta_robot_is_indexed: true
-meta_published_time: "2024-08-08T14:47:34+07:00"
-meta_modified_time: "2024-08-08T14:47:34+07:00"
+meta_published_time: "2024-08-10T09:00:34+07:00"
+meta_modified_time: "2024-08-10T09:00:34+07:00"
 meta_description: "Kita seringkali mendengar istilah trader dan investor. Namun apakah keduanya merujuk pada orang yang sama? atau ada perbedaan antara keduanya? Oleh karena itu, pada artikel ini, saya ingin membahas mengenai perbedaan keduanya"
 meta_keywords:
 - Investor
@@ -78,9 +78,9 @@ Karena sifatnya jangka pendek, *trader* mengenal istilah *cut loss*, yaitu batas
 Sedangkan *investor* seharusnya tidak mengenal istilah *cut loss*. Seorang *investor* tidak khawatir jika harga saham yang dibelinya mengalami penurunan. Bahkan kadang-kadang, *investor* justru membeli saham yang diinginkannya jika mengalami penurunan. Mereka menganggap harga yang lebih rendah dari sewajarnya sebagai harga diskon.
 
 ## Pihak lainnya
-Sebenarnya, ada satu lagi pihak yang bertransaksi di pasar saham selain *investor* dan *trader*. Dia adalah entitas institusi. Transaksi entitas institusi ini bersifat unik ya kawan-kawan. Misalnya entitas institusi yang mengelola reksadana saham. Mereka bisa membeli saham untuk jangka panjang atau melakukan transaksi untuk jangka pendek karena perubahan kebijakan atau karena adanya aturan tertentu sehingga mereka harus menyesuaikan bobot saham yang dimiliki.
+Sebenarnya, ada satu lagi pihak yang bertransaksi di pasar saham selain *investor* dan *trader*. Dia adalah entitas institusi. Transaksi entitas institusi ini bisa untuk jangka panjang maupun jangka pendek ya kawan-kawan. Misalnya entitas institusi yang mengelola reksadana saham. Mereka bisa membeli saham untuk jangka panjang atau melakukan transaksi untuk jangka pendek karena perubahan kebijakan atau karena adanya aturan tertentu sehingga mereka harus menyesuaikan bobot saham yang dimiliki.
 
 ## Penutup
-Sekarang kita sudah mengetahui perbedaan antara investor dan trader. Tinggal kita yang menentukan apakah ingin menjadi trader atau investor? atau justru keduanya?
+Sekarang kita sudah mengetahui perbedaan antara *investor* dan *trader*. Tinggal kita yang menentukan apakah ingin menjadi *trader* atau *investor*? atau justru keduanya?
 
 Apapun itu, ingat ya kawan-kawan! kalau mau bermain di pasar modal, ya harus punya modal :')
