@@ -2,8 +2,8 @@
 title: "Bagaimana Cara Kerja Blockchain?"
 date: 2025-04-10T10:54:42+07:00
 created_date: "10/04/2025"
-updated_date: "10/04/2025"
-has_updated: false
+updated_date: "17/04/2025"
+has_updated: true
 
 meta_robot_is_indexed: true
 meta_published_time: "2025-04-10T10:54:42+07:00"
@@ -60,13 +60,13 @@ Secara teknis, setiap blok pada *blockchain* memiliki *header* yang di-*hash* me
 {{<prompt_box>}}
 <div><strong>Transaksi =</strong></div>
 <br>
-<center>"Fitra memiliki 100 koin"</center>
+<center>"Defitra memiliki 100 koin"</center>
 <center>"John memiliki 200 koin"</center>
 <center>"Fitra mengirimkan 20 koin kepada John"</center>
 <br>
 <div> Nonce = 7235</div>
 <br>
-<div>Output (Hash) = 653404901254802376...</div>
+<div>Output (Hash) = 653404901254...</div>
 {{</prompt_box>}}
 
 
@@ -82,20 +82,24 @@ Lantas siapa yang memverifikasi transaksi tersebut? Mereka kita sebut dengan pen
 <div><strong>Transaksi =</strong></div>
 <br>
 <center>"Miner mendapatkan 12,5 koin"</center>
-<center>"Fitra memiliki 100 koin"</center>
+<center>"Defitra memiliki 100 koin"</center>
 <center>"John memiliki 200 koin"</center>
 <center>"Fitra mengirimkan 20 koin kepada John"</center>
 <br>
 <div> Nonce = 6354</div>
 <br>
-<div>Output (Hash) = 00007236476237842...</div>
+<div>Output (Hash) = 00007236476...</div>
 {{</prompt_box>}}
 
 Seperti yang dilihat di atas, ternyata *nonce* 6354 menghasilkan output (*hash*) dengan angka nol sebanyak 4 (empat). Maka *miner* berhak atas sejumlah mata uang kripto. (Tentunya ini hanya contoh ilustrasi ya).
 
-## Apa itu Chain pada *Blokchain*?
+## Apa itu *Chain* pada *Blokchain*?
 
 Output (*hash*) pada blok tadi akan menjadi *header* pada blok berikutnya. Jadi, blok yang baru ditambahkan ke *blockchain* akan berkaitan langsung dengan blok-blok sebelumnya. Itu artinya, jika ada yang mengubah transaksi pada 1 blok saja, maka itu akan mempengaruhi seluruh blok yang ada. Jadi sangat sangat sangat sangat.... sulit untuk meretas *Blockchain*.
 
+![Simulasi blockchain](/img/blog/simulasi-blockchain.jpg)
+
 ## Kesimpulan
 *Blockchain* adalah teknologi yang melibatkan blok-blok yang saling terkait dan berisi transaksi yang diverifikasi dengan cara konsensus dan bersifat terdesentralisasi. Penggunaan *blockchain* tidak hanya sebatas pada pengiriman/transaksi uang saja ya. Bisa juga digunakan untuk transaksi lain, salah satunya adalah pembuatan kontrak.
+
+Jika kamu ingin melihat bagaimana cara kerja *blockchain*, silakan klik tautan [*blockchain demo*](https://andersbrownworth.com/blockchain/coinbase) oleh Anders Brown Worth.
