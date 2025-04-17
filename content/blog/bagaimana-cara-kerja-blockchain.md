@@ -62,7 +62,7 @@ Secara teknis, setiap blok pada *blockchain* memiliki *header* yang di-*hash* me
 <br>
 <center>"Defitra memiliki 100 koin"</center>
 <center>"John memiliki 200 koin"</center>
-<center>"Fitra mengirimkan 20 koin kepada John"</center>
+<center>"Defitra mengirimkan 20 koin kepada John"</center>
 <br>
 <div> Nonce = 7235</div>
 <br>
@@ -84,7 +84,7 @@ Lantas siapa yang memverifikasi transaksi tersebut? Mereka kita sebut dengan pen
 <center>"Miner mendapatkan 12,5 koin"</center>
 <center>"Defitra memiliki 100 koin"</center>
 <center>"John memiliki 200 koin"</center>
-<center>"Fitra mengirimkan 20 koin kepada John"</center>
+<center>"Defitra mengirimkan 20 koin kepada John"</center>
 <br>
 <div> Nonce = 6354</div>
 <br>
