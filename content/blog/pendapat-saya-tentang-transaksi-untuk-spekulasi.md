@@ -1,8 +1,8 @@
 ---
 title: "Pendapat Saya Tentang Transaksi Untuk Spekulasi"
 date: 2025-04-16T22:14:34+07:00
-created_date: "16/04/2024"
-updated_date: "16/04/2024"
+created_date: "16/04/2025"
+updated_date: "16/04/2025"
 has_updated: false
 
 meta_robot_is_indexed: true
