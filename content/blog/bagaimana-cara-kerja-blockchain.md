@@ -20,7 +20,7 @@ ads_sidebar_name: ""
 ads_header: false
 ads_header_name: ""
 
-featured_image: "/img/featured-images/blockchain.jpg"
+featured_image: "/img/featured-images/blockchain1.jpg"
 alt_featured_image: "cara kerja blockchain"
 
 author: "Defitra"
