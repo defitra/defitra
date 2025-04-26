@@ -1,4 +1,4 @@
-baseURL = 'https://profil.defitra.my.id/'
+baseURL = 'https://defitra.my.id/'
 languageCode = 'en-us'
 title = 'Defitra Hidayatullah'
 theme = 'fitratheme'
