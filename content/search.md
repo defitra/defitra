@@ -8,9 +8,9 @@ type: "custom_page"
 meta_robot_is_indexed: false
 meta_published_time: "2024-03-02T14:04:42+07:00"
 meta_modified_time: "2024-03-02T14:04:42+07:00"
-meta_description: "This is meta_description for Search"
+meta_description: "Halaman ini dapat digunakan untuk mencari artikel blog defitra.my.id"
 meta_keywords:
-  - This is keywords for  Search
+  - Search defitra.my.id
   -
   -
 
